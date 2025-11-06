@@ -11,3 +11,8 @@
 i read the documentation of the screen i bought (https://www.waveshare.com/wiki/1.44inch_LCD_HAT) and tested the side buttons to get them to print out stuff in py.![450px-1.44inch-LCD-HAT-1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--537c77f50cdddee5b78a7761e24acbccfd1f80dd/450px-1.44inch-LCD-HAT-1.jpg)
   
 
+## 11/6/2025 - tested again and figured out how to get it to work  
+
+I spent like 2 hrs trying to get the thing to work withpios lite bc it dosent want to work for some reason, but tomorrow i plan to import a pyscript i made before this![WIN_20251106_17_51_34_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAxMywicHVyIjoiYmxvYl9pZCJ9fQ==--7256fed8c1fc4a6e0fdf1fa3acdfe27e52b7bc40/WIN_20251106_17_51_34_Pro.jpg)
+  
+
