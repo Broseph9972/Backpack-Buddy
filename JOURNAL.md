@@ -21,3 +21,8 @@ I spent like 2 hrs trying to get the thing to work withpios lite bc it dosent wa
 I started coding in py based on files.waveshare.com/upload/f/fa/1.44inch-LCD-HAT-Code.7z, and got the py demo working, and im gonna try to start working on the button mapping soon.![WIN_20251106_20_47_27_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2494fc1919e6ea1faf16180ace7b6bf7407c1e4a/WIN_20251106_20_47_27_Pro.jpg)
   
 
+## 11/6/2025 9 PM - PROTOTYPE :DDDD  
+
+I started vibecoding (im sorry) a script that generates a config of ur school schedule and based on the time the rpi has it will display ur current class on the screen, AND IT WORKSSSS :DDDD![WIN_20251106_21_18_16_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--d7c33a3257ccb322841089d98d7e2421440955c5/WIN_20251106_21_18_16_Pro.jpg)
+  
+
