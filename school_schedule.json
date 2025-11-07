@@ -1,0 +1,48 @@
+{
+    "school_name": "SRMS",
+    "school_start_time": "09:05",
+    "school_end_time": "03:55",
+    "has_homeroom": true,
+    "days_per_cycle": 5,
+    "class_duration": 51,
+    "time_between_classes": 4,
+    "homeroom_duration": 55,
+    "homeroom_period_name": "Advisory",
+    "lunch": {
+        "start_time": "12:50",
+        "duration": 25
+    },
+    "periods": [
+        {
+            "number": 1,
+            "name": "Spanish",
+            "duration": 51,
+            "before_homeroom": false
+        },
+        {
+            "number": 2,
+            "name": "ELA",
+            "duration": 51
+        },
+        {
+            "number": 3,
+            "name": "Math",
+            "duration": 51
+        },
+        {
+            "number": 4,
+            "name": "Gym",
+            "duration": 51
+        },
+        {
+            "number": 5,
+            "name": "Science",
+            "duration": 51
+        },
+        {
+            "number": 6,
+            "name": "SS",
+            "duration": 51
+        }
+    ]
+}
